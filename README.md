@@ -5,7 +5,7 @@
 | 1 | Two Sum |
 | 7 | Reverse Integer |
 | 9 | Palindrome Integer |
-| 69 | Sqrt(x) |
+| 26 | Remove Duplicates from Sorted Array |
 | 231 | Power of Two |
 | 326 | Power of Three |
 | 342 | Power of Four |
