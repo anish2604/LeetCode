@@ -9,3 +9,4 @@
 | 231 | Power of Two |
 | 326 | Power of Three |
 | 342 | Power of Four |
+| 412 | Fizz Buzz |
