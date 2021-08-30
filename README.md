@@ -1,6 +1,6 @@
 # Leetcode
 
-This repository contains the 
+This repository contains the codes done on LeetCode platform in java and sql languages.
 
 | SNo. | Title |
 | ----- | ----- |
