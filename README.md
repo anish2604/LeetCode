@@ -18,4 +18,16 @@
 | 504 | Base 7 |
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
+| 728	| Self Dividing Numbers |
+| 1281 | Subtract the Product and Sum of Digits of an Integer|
+| 1342 | Number of Steps to Reduce a Number to Zero |
+| 1480 | Running Sum of 1d Array |
+| 1512 | Number of Good Pairs |
+1672	Richest Customer Wealth
+1716	Calculate Money in Leetcode Bank
+1822	Sign of the Product of an Array
+1837	Sum of Digits in Base K
+1920	Build Array from Permutation
+1929	Concatenation of Array
+1952	Three Divisors
 
