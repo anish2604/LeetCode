@@ -15,6 +15,7 @@
 | 326 | Power of Three |
 | 342 | Power of Four |
 | 412 | Fizz Buzz |
+| 504 | Base 7 |
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
 
