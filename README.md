@@ -1,6 +1,8 @@
 # Leetcode
 
-| No. | Title |
+This repository contains the 
+
+| SNo. | Title |
 | ----- | ----- |
 | 1 | Two Sum |
 | 7 | Reverse Integer |
