@@ -25,9 +25,9 @@
 | 1512 | Number of Good Pairs |
 | 1672 | Richest Customer Wealth |
 | 1716 | Calculate Money in Leetcode Bank |
-|1822 | Sign of the Product of an Array |
-|1837 | Sum of Digits in Base K |
-|1920 | Build Array from Permutation |
-|1929 | Concatenation of Array |
-|1952 | Three Divisors |
+| 1822 | Sign of the Product of an Array |
+| 1837 | Sum of Digits in Base K |
+| 1920 | Build Array from Permutation |
+| 1929 | Concatenation of Array |
+| 1952 | Three Divisors |
 
