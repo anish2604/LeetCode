@@ -1,6 +1,10 @@
-# Leetcode
+# LeetCode
 
 This repository contains the codes done on LeetCode platform in java and sql languages.
+
+LeetCode Profile - https://leetcode.com/cr_anish/
+
+<br>
 
 | SNo. | Title |
 | ----- | ----- |
