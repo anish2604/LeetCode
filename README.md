@@ -10,7 +10,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | ----- | ----- |
 | 1 | Two Sum |
 | 7 | Reverse Integer |
-| 9 | Palindrome Integer |
+| 9 | Palindrome Number |
 | 26 | Remove Duplicates from Sorted Array |
 | 50 | Pow(x,n) |
 | 66 | Plus One |
