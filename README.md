@@ -27,6 +27,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 728	| Self Dividing Numbers |
 | 1281 | Subtract the Product and Sum of Digits of an Integer|
 | 1342 | Number of Steps to Reduce a Number to Zero |
+| 1470 | Shuffle the Array |
 | 1480 | Running Sum of 1d Array |
 | 1512 | Number of Good Pairs |
 | 1672 | Richest Customer Wealth |
