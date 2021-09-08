@@ -25,6 +25,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
 | 728	| Self Dividing Numbers |
+| 868 | Binary Gap |
 | 1281 | Subtract the Product and Sum of Digits of an Integer|
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1470 | Shuffle the Array |
