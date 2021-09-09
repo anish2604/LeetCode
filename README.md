@@ -18,6 +18,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 172 | Factorial Trailing Zeroes |
 | 175 | Combine Two Tables |
 | 231 | Power of Two |
+| 258 | Add Digits |
 | 326 | Power of Three |
 | 342 | Power of Four |
 | 412 | Fizz Buzz |
