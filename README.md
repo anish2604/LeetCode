@@ -32,6 +32,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1470 | Shuffle the Array |
 | 1480 | Running Sum of 1d Array |
+| 1486 | XOR Operation in an Array |
 | 1512 | Number of Good Pairs |
 | 1672 | Richest Customer Wealth |
 | 1688 | Count of Matches in Tournament |
