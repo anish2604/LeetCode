@@ -42,4 +42,5 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1920 | Build Array from Permutation |
 | 1929 | Concatenation of Array |
 | 1952 | Three Divisors |
+| 1979 | Find Greatest Common Divisor of Array |
 
