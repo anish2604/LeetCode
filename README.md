@@ -4,8 +4,6 @@ This repository contains the codes done on LeetCode platform in java and sql lan
 
 LeetCode Profile - https://leetcode.com/cr_anish/
 
-<br>
-
 | SNo. | Title |
 | ----- | ----- |
 | 1 | Two Sum |
