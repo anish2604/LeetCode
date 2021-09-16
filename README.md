@@ -1,6 +1,7 @@
 # LeetCode
 
 This repository contains the codes done on LeetCode platform in java and sql languages.
+The solutions for the below mentioned codes are available in the Solutions directory
 
 LeetCode Profile - https://leetcode.com/cr_anish/
 
