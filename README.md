@@ -13,6 +13,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 7 | Reverse Integer |
 | 9 | Palindrome Number |
 | 26 | Remove Duplicates from Sorted Array |
+| 27 | Remove Element |
 | 35 | Search Insert Position |
 | 50 | Pow(x,n) |
 | 66 | Plus One |
