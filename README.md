@@ -8,7 +8,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 <br>
 
 | SNo. | Title |
-| ----- | -----
+| ----- | ----- |
 | 1 | Two Sum |
 | 7 | Reverse Integer |
 | 9 | Palindrome Number |
