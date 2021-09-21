@@ -18,6 +18,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 50 | Pow(x,n) |
 | 66 | Plus One |
 | 69 | Sqrt(x) |
+| 121 | Best Time to Buy and Sell Stock |
 | 172 | Factorial Trailing Zeroes |
 | 175 | Combine Two Tables |
 | 231 | Power of Two |
