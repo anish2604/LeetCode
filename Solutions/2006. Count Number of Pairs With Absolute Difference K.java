@@ -1,4 +1,4 @@
-# Using Hash Map
+1. Using Hash Map Approach
 
 class Solution {
     public int countKDifference(int[] nums, int k) {
@@ -14,7 +14,7 @@ class Solution {
 
 
 
-# Using Brute Force
+2. Using Brute Force Approach
 
 class Solution {
     public int countKDifference(int[] nums, int k) {
