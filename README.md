@@ -30,6 +30,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
 | 728	| Self Dividing Numbers |
+| 747 | Largest Number At Least Twice of Others |
 | 868 | Binary Gap |
 | 977 | Squares of a Sorted Array |
 | 1281 | Subtract the Product and Sum of Digits of an Integer|
