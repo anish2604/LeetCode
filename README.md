@@ -29,6 +29,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 504 | Base 7 |
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
+| 628 | Maximum Product of Three Numbers |
 | 728	| Self Dividing Numbers |
 | 747 | Largest Number At Least Twice of Others |
 | 868 | Binary Gap |
@@ -48,4 +49,3 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1929 | Concatenation of Array |
 | 1952 | Three Divisors |
 | 1979 | Find Greatest Common Divisor of Array |
-
