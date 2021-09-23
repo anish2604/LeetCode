@@ -49,3 +49,4 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1929 | Concatenation of Array |
 | 1952 | Three Divisors |
 | 1979 | Find Greatest Common Divisor of Array |
+| 2006 | Count Number of Pairs With Absolute Difference K |
