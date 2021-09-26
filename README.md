@@ -37,6 +37,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 977 | Squares of a Sorted Array |
 | 1108 | Defanging an IP Address |
 | 1137 | N-th Tribonacci Number |
+| 1221 | Split a String in Balanced Strings |
 | 1281 | Subtract the Product and Sum of Digits of an Integer|
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1470 | Shuffle the Array |
