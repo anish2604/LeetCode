@@ -53,6 +53,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1837 | Sum of Digits in Base K |
 | 1913 | Maximum Product Difference Between Two Pairs |
 | 1920 | Build Array from Permutation |
+| 1925 | Count Square Sum Triples |
 | 1929 | Concatenation of Array |
 | 1952 | Three Divisors |
 | 1979 | Find Greatest Common Divisor of Array |
