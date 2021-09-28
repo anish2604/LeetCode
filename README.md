@@ -44,6 +44,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1470 | Shuffle the Array |
 | 1480 | Running Sum of 1d Array |
 | 1486 | XOR Operation in an Array |
+| 1492 | The kth Factor of n |
 | 1512 | Number of Good Pairs |
 | 1672 | Richest Customer Wealth |
 | 1688 | Count of Matches in Tournament |
