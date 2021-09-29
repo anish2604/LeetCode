@@ -51,6 +51,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1688 | Count of Matches in Tournament |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1791 | Find Center of Star Graph |
+| 1816 | Truncate Sentence |
 | 1822 | Sign of the Product of an Array |
 | 1837 | Sum of Digits in Base K |
 | 1913 | Maximum Product Difference Between Two Pairs |
