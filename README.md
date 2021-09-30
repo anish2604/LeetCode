@@ -54,6 +54,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1816 | Truncate Sentence |
 | 1822 | Sign of the Product of an Array |
 | 1837 | Sum of Digits in Base K |
+| 1844 | Replace All Digits with Characters |
 | 1913 | Maximum Product Difference Between Two Pairs |
 | 1920 | Build Array from Permutation |
 | 1925 | Count Square Sum Triples |
