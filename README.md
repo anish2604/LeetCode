@@ -42,6 +42,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1281 | Subtract the Product and Sum of Digits of an Integer|
 | 1304 | Find N Unique Integers Sum up to Zero |
 | 1342 | Number of Steps to Reduce a Number to Zero |
+| 1464 | Maximum Product of Two Elements in an Array |
 | 1470 | Shuffle the Array |
 | 1480 | Running Sum of 1d Array |
 | 1486 | XOR Operation in an Array |
