@@ -51,6 +51,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1672 | Richest Customer Wealth |
 | 1688 | Count of Matches in Tournament |
 | 1716 | Calculate Money in Leetcode Bank |
+| 1725 | Number Of Rectangles That Can Form The Largest Square |
 | 1791 | Find Center of Star Graph |
 | 1816 | Truncate Sentence |
 | 1822 | Sign of the Product of an Array |
