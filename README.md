@@ -52,6 +52,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1688 | Count of Matches in Tournament |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1725 | Number Of Rectangles That Can Form The Largest Square |
+| 1732 | Find the Highest Altitude |
 | 1791 | Find Center of Star Graph |
 | 1816 | Truncate Sentence |
 | 1822 | Sign of the Product of an Array |
