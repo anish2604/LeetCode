@@ -16,6 +16,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 27 | Remove Element |
 | 35 | Search Insert Position |
 | 50 | Pow(x,n) |
+| 58 | Length of Last Word |
 | 66 | Plus One |
 | 69 | Sqrt(x) |
 | 121 | Best Time to Buy and Sell Stock |
