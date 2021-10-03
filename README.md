@@ -24,6 +24,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 175 | Combine Two Tables |
 | 231 | Power of Two |
 | 258 | Add Digits |
+| 268 | Missing Number |
 | 326 | Power of Three |
 | 342 | Power of Four |
 | 412 | Fizz Buzz |
