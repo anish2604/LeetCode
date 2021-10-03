@@ -43,6 +43,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1221 | Split a String in Balanced Strings |
 | 1281 | Subtract the Product and Sum of Digits of an Integer|
 | 1304 | Find N Unique Integers Sum up to Zero |
+| 1317 | Convert Integer to the Sum of Two No-Zero Integers |
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1464 | Maximum Product of Two Elements in an Array |
 | 1470 | Shuffle the Array |
