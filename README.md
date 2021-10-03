@@ -12,6 +12,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1 | Two Sum |
 | 7 | Reverse Integer |
 | 9 | Palindrome Number |
+| 13 | Roman to Integer |
 | 26 | Remove Duplicates from Sorted Array |
 | 27 | Remove Element |
 | 35 | Search Insert Position |
