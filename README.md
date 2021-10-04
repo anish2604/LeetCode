@@ -22,6 +22,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 69 | Sqrt(x) |
 | 121 | Best Time to Buy and Sell Stock |
 | 136 | Single Number |
+| 169 | Majority Element |
 | 172 | Factorial Trailing Zeroes |
 | 175 | Combine Two Tables |
 | 231 | Power of Two |
