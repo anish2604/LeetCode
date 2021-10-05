@@ -25,6 +25,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 169 | Majority Element |
 | 172 | Factorial Trailing Zeroes |
 | 175 | Combine Two Tables |
+| 189 | Rotate Array |
 | 231 | Power of Two |
 | 258 | Add Digits |
 | 268 | Missing Number |
