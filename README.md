@@ -75,6 +75,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1920 | Build Array from Permutation |
 | 1925 | Count Square Sum Triples |
 | 1929 | Concatenation of Array |
+| 1941 | Check if All Characters Have Equal Number of Occurrences |
 | 1952 | Three Divisors |
 | 1979 | Find Greatest Common Divisor of Array |
 | 1985 | Find the Kth Largest Integer in the Array |
