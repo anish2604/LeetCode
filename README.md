@@ -61,6 +61,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1523 | Count Odd Numbers in an Interval Range |
 | 1534 | Count Good Triplets |
 | 1672 | Richest Customer Wealth |
+| 1684 | Count the Number of Consistent Strings |
 | 1688 | Count of Matches in Tournament |
 | 1704 | Determine if String Halves Are Alike |
 | 1716 | Calculate Money in Leetcode Bank |
