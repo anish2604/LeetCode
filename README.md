@@ -44,6 +44,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 832 | Flipping an Image.java |
 | 868 | Binary Gap |
 | 977 | Squares of a Sorted Array |
+| 1051 | Height Checker |
 | 1108 | Defanging an IP Address |
 | 1137 | N-th Tribonacci Number |
 | 1221 | Split a String in Balanced Strings |
