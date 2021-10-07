@@ -41,6 +41,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 728	| Self Dividing Numbers |
 | 747 | Largest Number At Least Twice of Others |
 | 771 | Jewels and Stones |
+| 832 | Flipping an Image.java |
 | 868 | Binary Gap |
 | 977 | Squares of a Sorted Array |
 | 1108 | Defanging an IP Address |
