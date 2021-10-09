@@ -71,6 +71,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1791 | Find Center of Star Graph |
 | 1816 | Truncate Sentence |
 | 1822 | Sign of the Product of an Array |
+| 1832 | Check if the Sentence Is Pangram |
 | 1837 | Sum of Digits in Base K |
 | 1844 | Replace All Digits with Characters |
 | 1913 | Maximum Product Difference Between Two Pairs |
