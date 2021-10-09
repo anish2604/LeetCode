@@ -69,6 +69,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1725 | Number Of Rectangles That Can Form The Largest Square |
 | 1732 | Find the Highest Altitude |
 | 1791 | Find Center of Star Graph |
+| 1812 | Determine Color of a Chessboard Square |
 | 1816 | Truncate Sentence |
 | 1822 | Sign of the Product of an Array |
 | 1832 | Check if the Sentence Is Pangram |
