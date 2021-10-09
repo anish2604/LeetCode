@@ -81,5 +81,6 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1952 | Three Divisors |
 | 1979 | Find Greatest Common Divisor of Array |
 | 1985 | Find the Kth Largest Integer in the Array |
+| 2000 | Reverse Prefix of Word |
 | 2006 | Count Number of Pairs With Absolute Difference K |
 | 2011 | Final Value of Variable After Performing Operations |
