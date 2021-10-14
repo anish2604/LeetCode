@@ -29,6 +29,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 189 | Rotate Array |
 | 231 | Power of Two |
 | 258 | Add Digits |
+| 263 | Ugly Number |
 | 268 | Missing Number |
 | 326 | Power of Three |
 | 342 | Power of Four |
