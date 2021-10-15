@@ -34,6 +34,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 278 | First Bad Version |
 | 326 | Power of Three |
 | 342 | Power of Four |
+| 344 | Reverse String |
 | 367 | Valid Perfect Square |
 | 389 | Find the Difference |
 | 412 | Fizz Buzz |
