@@ -36,6 +36,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 342 | Power of Four |
 | 344 | Reverse String |
 | 367 | Valid Perfect Square |
+| 374 | Guess Number Higher or Lower |
 | 389 | Find the Difference |
 | 412 | Fizz Buzz |
 | 504 | Base 7 |
