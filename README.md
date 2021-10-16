@@ -37,6 +37,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 344 | Reverse String |
 | 367 | Valid Perfect Square |
 | 374 | Guess Number Higher or Lower |
+| 383 | Ransom Note |
 | 389 | Find the Difference |
 | 412 | Fizz Buzz |
 | 504 | Base 7 |
