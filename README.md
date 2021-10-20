@@ -27,6 +27,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 172 | Factorial Trailing Zeroes |
 | 175 | Combine Two Tables |
 | 189 | Rotate Array |
+| 217 | Contains Duplicate |
 | 231 | Power of Two |
 | 258 | Add Digits |
 | 263 | Ugly Number |
