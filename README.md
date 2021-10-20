@@ -33,6 +33,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 268 | Missing Number |
 | 278 | First Bad Version |
 | 326 | Power of Three |
+| 338 | Counting Bits |
 | 342 | Power of Four |
 | 344 | Reverse String |
 | 367 | Valid Perfect Square |
