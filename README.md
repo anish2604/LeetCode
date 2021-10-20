@@ -41,6 +41,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 383 | Ransom Note |
 | 389 | Find the Difference |
 | 412 | Fizz Buzz |
+| 434 | Number of Segments in a String |
 | 504 | Base 7 |
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
