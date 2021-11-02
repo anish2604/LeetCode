@@ -76,6 +76,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1512 | Number of Good Pairs |
 | 1523 | Count Odd Numbers in an Interval Range |
 | 1534 | Count Good Triplets |
+| 1662 | Check If Two String Arrays are Equivalent |
 | 1672 | Richest Customer Wealth |
 | 1684 | Count the Number of Consistent Strings |
 | 1688 | Count of Matches in Tournament |
