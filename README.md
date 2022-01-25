@@ -57,6 +57,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 771 | Jewels and Stones |
 | 832 | Flipping an Image.java |
 | 868 | Binary Gap |
+| 941 | Valid Mountain Array |
 | 977 | Squares of a Sorted Array |
 | 1051 | Height Checker |
 | 1108 | Defanging an IP Address |
