@@ -44,6 +44,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 412 | Fizz Buzz |
 | 414 | Third Maximum Number |
 | 434 | Number of Segments in a String |
+| 438 | Find All Anagrams in a String |
 | 504 | Base 7 |
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
