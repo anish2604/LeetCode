@@ -97,7 +97,6 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1844 | Replace All Digits with Characters |
 | 1903 | Largest Odd Number in String |
 | 1913 | Maximum Product Difference Between Two Pairs |
-| 1920 | Build Array from Permutation |
 | 1925 | Count Square Sum Triples |
 | 1929 | Concatenation of Array |
 | 1941 | Check if All Characters Have Equal Number of Occurrences |
