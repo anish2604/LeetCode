@@ -57,6 +57,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 747 | Largest Number At Least Twice of Others |
 | 771 | Jewels and Stones |
 | 832 | Flipping an Image.java |
+| 867 | Transpose Matrix |
 | 868 | Binary Gap |
 | 941 | Valid Mountain Array |
 | 977 | Squares of a Sorted Array |
