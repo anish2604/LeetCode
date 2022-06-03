@@ -93,6 +93,7 @@ LeetCode Profile - https://leetcode.com/cr_anish/
 | 1812 | Determine Color of a Chessboard Square |
 | 1816 | Truncate Sentence |
 | 1822 | Sign of the Product of an Array |
+| 1823 | Find the Winner of the Circular Game |
 | 1832 | Check if the Sentence Is Pangram |
 | 1837 | Sum of Digits in Base K |
 | 1844 | Replace All Digits with Characters |
